@@ -1,0 +1,6 @@
+*.pyc
+*.xlsx
+.idea
+__pycache__
+venv
+lib.db
